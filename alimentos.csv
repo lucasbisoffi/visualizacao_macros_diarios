@@ -1,0 +1,18 @@
+Alimento,Calorias (Kcal),Porção (g),Colheres de Sopa,Unidade,Carboidratos (g),Proteínas (g),Gorduras (g),Fonte dos Dados
+Arroz Branco,97.0,100.0,6.6,,26.3,2.6,0.2,(TACO)
+Feijão Preto,132.0,100.0,6.6,,15.4,9.0,1.4,(TACO)
+Filé de Frango (grelhado),165.0,100.0,,1.0,0.0,31.0,3.6,(TACO)
+Filé de Contrafilé (grelhado),194.0,100.0,,1.0,0.0,35.0,4.5,(TACO)
+Filé de Pescada Frito (Tilápia),171.0,100.0,,1.0,0.0,28.6,8.1,(TACO)
+Ovo de Galinha Frito,95.0,50.0,,1.0,5.5,6.3,6.8,(TACO)
+Ovo de Galinha Cozido,78.0,50.0,,1.0,5.5,6.3,5.3,(TACO)
+Azeite de Oliva Extra Virgem,117.87,13.33,1.0,,0.0,0.0,13.33,(FatSecret)
+Banana Nanica,92.0,100.0,,1.0,23.8,1.4,0.4,(TACO)
+Maçã Fuji,18.0,182.0,,1.0,4.83,0.09,0.06,(TACO)
+Whey Morango Growth,127.0,30.0,,1.0,4.0,23.0,2.0,(Growth)
+Aveia em Flocos (Nestlé),110.0,30.0,3.0,,16.0,4.6,2.3,(Nestlé)
+Hipercalórico,229.0,60.0,,1.0,50.0,6.0,0.5,Embalagem
+Leite Integral,117.0,,,1.0,9.6,6.2,6.0,Italac
+Whey (Itambé),145.0,,,1.0,14.0,15.0,2.5,Embalagem
+"Pão (Maçã, quinoa e castanha)",126.0,50.0,,2.0,18.0,7.5,2.6,Embalagem
+Pão de Milho,151.0,50.0,,2.0,28.0,4.1,2.5,(Panco)
